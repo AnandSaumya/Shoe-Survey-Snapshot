@@ -1,4 +1,4 @@
-# $\textbf{Shoe Survey Snapshot}$
+# $\textbf{Shoe Survey Snapshot:}$ $\newline$ $\textbf{Uncovering Purchase Patterns}$
 $\textit{Team Members: Aryan K., Neeharika K., Rajashree R., Saumya A., Tanvi S.}$
 
 ![unnamed (1)](https://github.com/AnandSaumya/Shoe-Survey-Snapshot/assets/144278601/4301d41b-8988-4824-9097-7c92b93bc09f)
